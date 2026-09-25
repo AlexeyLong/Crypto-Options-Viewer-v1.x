@@ -1039,7 +1039,7 @@ void LoadAsset(Asset asset)
 }
 
 // ────────────────────────────────────────────────────────────
-// INITIAL LOAD - ONLY ON APPLICATION START
+// INITIAL LOAD-ONLY ON APPLICATION START
 // ────────────────────────────────────────────────────────────
 void AsyncLoadData(HWND hwnd)
 {
@@ -1268,7 +1268,7 @@ void OnPaint(HWND hwnd, HDC hdc)
         return;
     }
 
-    // OI
+    // Open Interest
     double totalCalls = 0.0;
     double totalPuts = 0.0;
 
@@ -1320,7 +1320,7 @@ void OnPaint(HWND hwnd, HDC hdc)
         g_Theme.InfoText
     );
 
-    // Max
+    // Max OI
     double maxOI = 0.0;
 
     for (const auto& [strike, option] : data) {
@@ -1379,7 +1379,7 @@ void OnPaint(HWND hwnd, HDC hdc)
         graphHeight <= 0)
         return;
 
-    // Сетка
+    // Grid
     Pen gridPen(
         g_Theme.Grid,
         1.0f
@@ -1466,7 +1466,7 @@ void OnPaint(HWND hwnd, HDC hdc)
     int index = 0;
     int labelStep = std::max(1, count / 18);
 
-    // Graps
+    // Chart
     for (const auto& [strike, option] : data)
     {
         ExchangeOI selected = GetSelectedOI(option);
