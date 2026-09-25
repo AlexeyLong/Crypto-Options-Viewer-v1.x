@@ -59,7 +59,7 @@ nlohmann/json header-only library (json.hpp).
 
 ## Download
 Pre-compiled executable binary for Windows is available for direct deployment:
-[📦 Download Crypto Options Viewer v1.x](https://github.com/AlexeyLong/Crypto-Options-Viewer-v1.x/blob/main/CryptoOptionsViewer_v1.x.exe)
+[Download Crypto Options Viewer v1.x](https://github.com/AlexeyLong/Crypto-Options-Viewer-v1.x/blob/main/CryptoOptionsViewer_v1.x.exe)
 
 ## Disclaimer
 This software is intended strictly for informational and educational purposes. It does not constitute financial or investment advice.
