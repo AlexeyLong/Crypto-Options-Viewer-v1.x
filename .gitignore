@@ -1,0 +1,27 @@
+# Visual Studio build outputs
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.token
+*.tgm
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+
+# IDE artifacts
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Logs
+*.log
+Log/
