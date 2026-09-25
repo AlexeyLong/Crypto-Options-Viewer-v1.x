@@ -49,7 +49,7 @@ nlohmann/json header-only library (json.hpp).
    \x64\Release\WindowsProject1.exe
 
 ## Screenshot
-![Crypto-Options-Viewer-v1.x](screenshot.png)
+![Crypto-Options-Viewer-v1.x](Screenshot.png)
 
 ## Disclaimer
 This software is intended strictly for informational and educational purposes. It does not constitute financial or investment advice.
