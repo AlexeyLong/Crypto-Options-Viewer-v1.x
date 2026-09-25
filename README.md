@@ -1,10 +1,10 @@
 # Crypto Options Open Interest Viewer
 
-![Version](https://shields.io)
-![Repository Size](https://shields.io)
-![License](https://shields.io)
-![Language](https://shields.io)
-![Last Commit](https://shields.io)
+![Version](https://img.shields.io/badge/version-v1.x-blue)
+![Repository Size](https://img.shields.io/github/repo-size/AlexeyLong/Crypto-Options-Viewer-v1.x)
+![License](https://img.shields.io/github/license/AlexeyLong/Crypto-Options-Viewer-v1.x)
+![Language](https://img.shields.io/github/languages/top/AlexeyLong/Crypto-Options-Viewer-v1.x)
+![Last Commit](https://img.shields.io/github/last-commit/AlexeyLong/Crypto-Options-Viewer-v1.x)
 
 Windows desktop application written in native C++ using the Win32 API and GDI+ for real-time visualization. The application aggregates, processes, and visualizes Open Interest (OI) data for Bitcoin and Ethereum options across major cryptocurrency derivatives exchanges.
 
